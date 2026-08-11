@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Allen 👋
+# Hi, I'm Allen De Guzman Selga 👋
 
 ### Information Technology Student • Software Developer • Photographer • Graphic Designer
 
